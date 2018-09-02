@@ -1,4 +1,4 @@
 # hello-world
 My First repository for test purposes
 
-Hey, I wat to learn about GitHub
+Hey, I wan't to learn about GitHub
